@@ -1,0 +1,127 @@
+*{
+    text-decoration: none;
+    color: #ffffff;
+}
+body{
+    background-color: #000;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.vl{
+    border-left: 2px solid rgb(255, 255, 255);
+    height: 680px;
+    margin-top: 10%;
+    margin-left: 4%;
+    position: fixed;
+}
+.v2l{
+    border-left: 2px solid rgb(255, 255, 255);
+    height: 680px;
+    margin-top: 10%;
+    margin-left: 95%;
+    position: fixed;
+}
+.sites1{
+    margin-left: 5%;
+    margin-top:-36%;
+    font-size: xxx-large;
+    color: white;
+    font-weight: 900;
+
+}
+.menu2{
+    padding-left: 4.5%;
+    margin-top: -42%;
+    line-height: 241%;
+}
+.rights{
+    color: #ffffffd9;
+    padding-left: 81%;
+    padding-top: 28%;
+    font-weight: bold;
+    font-size: x-small;
+}
+.dopes{
+    padding-left: 44%;
+    padding-top: 25%;
+}
+
+.IMG{
+    margin-top: -5%;
+}
+
+.rights{
+    color: #ffffffd9;
+    padding-left: 80%;
+    padding-top: 24%;
+    font-weight: bold;
+    font-size: x-small;
+}
+.mater2{
+    padding-left: 8%;
+    padding-top: 43%;
+    font-size: xx-large;
+    float: left;
+}
+.mater1{
+    padding-left: 41%;
+    font-size: medium;
+    padding-top: 698px;
+    line-height: 31px;
+    width: 54%;
+}
+.IMG{
+    padding-top: 2%;
+}
+.img2{
+    padding-left: 16%;
+    padding-top: 8%;
+}
+.look{
+    padding-left: 46%;
+    padding-top: 12%;
+    font-size: xxx-large;
+    font-family: fantasy;
+}
+.container{
+    position: relative;
+    width: 1280px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 44px;
+    margin-top: 11%;
+}
+.container .card{
+    margin:auto;
+}
+.container .card .imgBx{
+	position: relative;
+    width: 406px;
+    height: 324px;
+    top: -60px;
+    left: 20px;
+    border: 1px solid #464646;
+    margin: -9px 9px;
+}
+.container .card .imgBx img
+{
+	max-width: 100%;
+	border-radius: 5px;
+}
+.matter4{
+    padding-left: 46%;
+    padding-top: 25%;
+    font-size: medium;
+}
+.dopes{
+    padding-left: 4%;
+    padding-top: 8%;
+    display: flex;
+}
+.matter5{
+    font-family: fantasy;
+    padding-left: 22%;
+    margin-top: -33%;
+    font-size: xxx-large;
+}

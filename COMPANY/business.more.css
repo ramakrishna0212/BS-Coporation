@@ -1,0 +1,24 @@
+body {
+    font-family: system-ui;
+    line-height: 35px;
+    color: #000;
+    background-color: #fff;
+}
+.jumbotron {
+    padding-top: 81px;
+    padding-bottom: 97px;
+    margin-bottom: 57px;
+    color: inherit;
+    background-color: #eee;
+    font-size: xx-large;
+}
+.text-center {
+    text-align: center;
+    font-family: sans-serif;
+}
+.container {
+    width: 102%;
+}
+.row {
+    margin-left: 8px;
+}

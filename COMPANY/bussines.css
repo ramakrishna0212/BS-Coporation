@@ -1,0 +1,46 @@
+*{
+    text-decoration: none;
+    color: #000;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.menu {
+    padding-left: 5%;
+    padding-top: 21%;
+    line-height: 55px;
+    position: fixed;
+    font-weight: bold;
+    font-size: small;
+}
+.BUSINESS{
+    padding-left: 36%;
+}
+
+.vl{
+    border-left: 2px solid rgb(0, 0, 0);
+    height: 680px;
+    margin-top: 3%;
+    margin-left: 4%;
+    position: fixed;
+}
+.v2l{
+    border-left: 2px solid rgb(0, 0, 0);
+    height: 680px;
+    margin-top: 3%;
+    margin-left: 95%;
+    position: fixed;
+}
+.container {
+    width: 33%;
+    padding-left: 32%;
+}
+.rights{
+    padding-left: 81%;
+    padding-top: 23.5%;
+    font-weight: bold;
+    font-size: x-small;
+}
+.ynwa{
+    font-size: 34px;
+    margin-top: 4%;
+}

@@ -1,0 +1,39 @@
+*{
+    text-decoration: none;
+    color: #000;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.menu {
+    padding-top: 30%;
+    position: fixed;
+    font-weight: bold;
+    font-size: x-small;
+}
+.middle{
+    position: absolute;
+    top: 50%;
+    left: 34%;
+    width: 55%;
+    line-height: 48px;
+}
+.vl{
+    border-left: 2px solid rgb(0, 0, 0);
+    height: 680px;
+    margin-top: -7%;
+    margin-left: 414px;
+    position: fixed;
+}
+hr{
+    display: block;
+    width: 1015px;
+    height: 1px;
+    background-color: #111;
+    margin: 95px 0px 14px 415px;
+}
+
+.ynwa{
+    font-size: large;
+    padding-left: 30%;
+    margin-top: -6%;
+}

@@ -1,0 +1,121 @@
+*{
+    text-decoration: none;
+    color: #ffffff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-color: #000;
+}
+.vl{
+    border-left: 2px solid rgb(255, 255, 255);
+    height: 680px;
+    margin-top: 3%;
+    margin-left: 4%;
+    position: fixed;
+}
+.v2l{
+    border-left: 2px solid rgb(255, 255, 255);
+    height: 680px;
+    margin-top: 3%;
+    
+    margin-left: 95%;
+    position: fixed;
+}
+.sites1{
+    margin-left: 8%;
+    margin-top: -8%;
+    font-size: 30px;
+    font-family: sans-serif;
+    color: white;
+    font-weight: 900;
+    line-height: 0pc;
+}
+.menu2{
+    padding-left: 8.5%;
+    margin-top: 6%;
+    line-height:290%;
+    
+}
+
+.slider-frame{
+    overflow: hidden;
+    height: 80%;
+    width: 83%;
+    margin-left: 121px;
+    margin-top: 43px;
+}
+
+/*---------- SLIDE ANIMATION --------------*/
+
+
+@keyframes slide_animation{
+    0% {left:0px;}
+    40% {left:1200px;}
+    30% {left:1200px;}
+    40% {left: 2400px;}
+    50% {left: 2400px;}
+    60% {left: 1200px;}
+    70% {left: 1200px;}
+    80% {left: 0px;}
+}
+
+@-webkit-keyframes slide_animation{
+    0% {left:0px;}
+    20% {left:1300px;}
+    30% {left:1300px;}
+    40% {left: 2500px;}
+    50% {left: 2500px;}
+    60% {left: 1300px;}
+    70% {left: 100px;}
+    80% {left: 0px;}
+    
+}
+
+.slide-images{
+    width: 3600px;
+    height: 800px;
+    margin: 0 0 0 -2400px;
+    position: relative;
+    animation-name: slide_animation;
+    animation-duration: 14s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-play-state: running;
+}
+
+.img-container1{
+    font-size: larger;
+    height: 800px;
+    width: 1200px;
+    position: relative;
+    float: left;
+}
+
+.img-container2{
+    font-size: larger;
+    height: 800px;
+    width: 1200px;
+    position: relative;
+    float: left;
+}
+
+.img-container3{
+    font-size: larger;
+    height: 800px;
+    width: 1200px;
+    position: relative;
+    float: left;
+}
+
+.BUSINESS{
+    margin-top: 0%;
+    padding-left: 5%;
+    position: fixed;
+}
+.rights{
+    color: #ffffffd9;
+    padding-left: 80%;
+    padding-top: 9%;
+    font-weight: bold;
+    font-size: x-small;
+}

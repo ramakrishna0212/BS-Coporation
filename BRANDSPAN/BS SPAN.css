@@ -1,0 +1,51 @@
+*{
+    text-decoration: none;
+    color: #000000;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-color: #ffffff;
+}
+.vl{
+    border-left: 2px solid rgb(0, 0, 0);
+    height: 680px;
+    margin-top: 3%;
+    margin-left: 4%;
+    position: fixed;
+}
+.v2l{
+    border-left: 2px solid rgb(0, 0, 0);
+    height: 680px;
+    margin-top: 3%;
+    margin-left: 95%;
+    position: fixed;
+}
+.bg{
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 121px 63px -18px;
+    position: fixed;
+}
+.BUSINESS{
+    padding-top: 5%;
+    padding-left: 41%;
+}
+.menu2{
+    margin-top: 1%;
+    line-height: 315%;
+    display: block;
+    text-align: center;
+    font-size: larger;
+}
+.rights{
+    color: #000000;
+    padding-left: 80%;
+    padding-top: 9%;
+    font-weight: bold;
+    font-size: x-small;
+}
+.ynwa{
+    font-size: xx-large;
+    padding-left: 16%;
+    margin-top: 10%;
+}

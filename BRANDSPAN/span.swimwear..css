@@ -1,0 +1,41 @@
+
+body{
+    background-color: rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.vl{
+    border-left: 2px solid rgb(0, 0, 0);
+    height: 680px;
+    margin-top: 3%;
+    margin-left: 4%;
+    position: fixed;
+}
+.v2l{
+    border-left: 2px solid rgb(0, 0, 0);
+    height: 680px;
+    margin-top: 3%;
+    margin-left: 95%;
+    position: fixed;
+}
+.bg{
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 10px 62px -42px;
+    position: fixed;
+}
+.BUSINESS{
+    font-size: x-large;
+    padding-left: 44%;
+}
+.container{   
+    color: rgb(0, 0, 0);
+    padding-top: 10%;
+    padding-left: 22%;
+    padding-right: 10%;
+    padding-bottom: 20%;
+}
+.ynwa{
+    font-size: xx-large;
+    padding-left: 43%;
+    margin-top: -11%;
+}

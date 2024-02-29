@@ -1,0 +1,57 @@
+*{
+    text-decoration: none;
+    color: #ffffff;
+}
+body{
+    background-color: #000;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.vl{
+    border-left: 2px solid rgb(255, 255, 255);
+    height: 680px;
+    margin-top: 3%;
+    margin-left: 4%;
+    position: fixed;
+}
+.v2l{
+    border-left: 2px solid rgb(255, 255, 255);
+    height: 680px;
+    margin-top: 3%;
+    margin-left: 95%;
+    position: fixed;
+}
+.sites1{
+    margin-left: 16%;
+    margin-top: 12%;
+    position: fixed;
+    opacity: 19%;
+}
+.menu2{
+    padding-left: 14.5%;
+    margin-top: -67%;
+    line-height: 241%;
+}
+.rights{
+    color: #ffffffd9;
+    padding-left: 81%;
+    padding-top: 51%;
+    font-weight: bold;
+    font-size: x-small;
+}
+.dopes{
+    padding-left: 3%;
+    margin-top: -21%;
+    display: flex;
+}
+.matter5{
+    font-family: fantasy;
+    padding-left: 37%;
+    margin-top: 7%;
+    font-size: xxx-large;
+}
+.matter6{
+    font-family: fantasy;
+    padding-left: 28%;
+    font-size: xxx-large;
+    position: absolute;
+}

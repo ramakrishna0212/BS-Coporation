@@ -1,0 +1,48 @@
+*{
+    text-decoration: none;
+    color: #000;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.menu {
+    padding-left: 80%;
+    padding-top: 37%;
+    position: fixed;
+    font-weight: bold;
+    font-size: x-small;
+}
+.BUSINESS{
+    font-size: x-large;
+    margin-top: 0%;
+    padding-left: 14%;
+    font-family: fantasy;
+}
+
+.middle{
+    position: absolute;
+    top: 27%;
+    left: 17%;
+    width: 68%;
+    line-height: 40px;
+}
+.vl{
+    border-left: 2px solid rgb(0, 0, 0);
+    height: 680px;
+    margin-top: 3%;
+    margin-left: 4%;
+    position: fixed;
+}
+.v2l{
+    border-left: 2px solid rgb(0, 0, 0);
+    height: 680px;
+    margin-top: 3%;
+    margin-left: 95%;
+    position: fixed;
+}
+hr{
+    display: block;
+    width: 951px;
+    height: 1px;
+    background-color: #111;
+    margin: 243px 0px 14px 415px;
+}
